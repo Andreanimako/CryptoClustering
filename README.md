@@ -57,9 +57,7 @@ Cryptocurrencies were clustered using the following process:
    - Colored graph points with the labels found using K-means.
    - Added the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 
-![elbow plots](https://github.com/Andreanimako/CryptoClustering/assets/155989509/1c4cbc3e-9069-413c-9a35-8e13721b1d25)
 
-![scatter plots](https://github.com/Andreanimako/CryptoClustering/assets/155989509/208cf0e1-1f6d-40f4-b249-0b41e75fb351)
 
 
 
