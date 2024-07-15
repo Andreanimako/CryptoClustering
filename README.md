@@ -59,6 +59,9 @@ Cryptocurrencies were clustered using the following process:
 
 
 
+![elbows (1)](https://github.com/user-attachments/assets/8a7f4daa-0357-4332-bf03-86d552ff0df7)
+
+![clusters](https://github.com/user-attachments/assets/33c8c25a-26ec-4174-8b43-19770400a5e7)
 
 
 
